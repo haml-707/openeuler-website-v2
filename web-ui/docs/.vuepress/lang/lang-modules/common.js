@@ -248,7 +248,7 @@ module.exports = {
       ATOM_PC: '/atom-pc.png',
       ATOM_MO: '/atom-mo.png',
       MAIL: 'contact@openeuler.io',
-      COPY_RIGHT: '版权所有 © 2023 openEuler 保留一切权利',
+      COPY_RIGHT: '版权所有 © 2024 openEuler 保留一切权利',
       RIGHT_LIST: [
         {
           NAME: '品牌',
@@ -261,10 +261,6 @@ module.exports = {
         {
           NAME: '法律声明',
           URL: 'https://www.openeuler.org/zh/other/legal/',
-        },
-        {
-          NAME: '服务状态',
-          URL: 'https://status.openeuler.org/',
         },
       ],
       QR_CODE: 'openEuler公众号',
@@ -490,7 +486,7 @@ module.exports = {
       ATOM_PC: '/atom-pc.png',
       ATOM_MO: '/atom-mo.png',
       MAIL: 'contact@openeuler.io',
-      COPY_RIGHT: 'Copyright © 2023 openEuler. All rights reserved.',
+      COPY_RIGHT: 'Copyright © 2024 openEuler. All rights reserved.',
       RIGHT_LIST: [
         {
           NAME: 'Trademark',
@@ -503,10 +499,6 @@ module.exports = {
         {
           NAME: 'Legal Notice',
           URL: 'https://www.openeuler.org/en/other/legal/',
-        },
-        {
-          NAME: 'Service Status',
-          URL: 'https://status.openeuler.org/',
         },
       ],
       QR_CODE: 'WeChat Subscription',
